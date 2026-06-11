@@ -4,6 +4,7 @@ Hi, I'm Anudeep Reddy Veerla — a Data Engineer with 6+ years of experience<br>
 # 🧠 What I Do:
 I work across the full data engineering lifecycle — from raw ingestion and pipeline architecture to transformation modeling, orchestration, performance tuning, and CI/CD automation. My work sits at the intersection of data reliability, cloud-native architecture, and business impact.<br>I've delivered production-grade data platforms for large enterprises in healthcare and regulated industries, with a focus on governance, lineage, compliance, and analytics enablement.
 
+<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +14,7 @@ I work across the full data engineering lifecycle — from raw ingestion and pip
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-[Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
