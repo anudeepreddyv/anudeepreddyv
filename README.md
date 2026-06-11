@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Anudeep Reddy Veerla — a Data Engineer with 6+ years of experience<br>designing, building, and modernizing enterprise data platforms across cloud<br>and on-prem environments. I turn complex, fragmented legacy systems into<br>scalable, governed, and insight-ready data infrastructure.
 
-#🧠 What I Do:<br>
+# 🧠 What I Do:
 I work across the full data engineering lifecycle — from raw ingestion and pipeline architecture to transformation modeling, orchestration, performance tuning, and CI/CD automation. My work sits at the intersection of data reliability, cloud-native architecture, and business impact.<br>I've delivered production-grade data platforms for large enterprises in healthcare and regulated industries, with a focus on governance, lineage, compliance, and analytics enablement.
 
 
