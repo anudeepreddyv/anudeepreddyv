@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Anudeep Reddy Veerla — a Data Engineer with 6+ years of experience<br>designing, building, and modernizing enterprise data platforms across cloud<br>and on-prem environments. I turn complex, fragmented legacy systems into<br>scalable, governed, and insight-ready data infrastructure.
+Hi, I'm Anudeep Reddy Veerla — a Data Engineer with 6+ years of experience designing, building, and modernizing enterprise data platforms across cloud and on-prem environments. I turn complex, fragmented legacy systems into<br>scalable, governed, and insight-ready data infrastructure.
+<br>
 
 # 🧠 What I Do:
 I work across the full data engineering lifecycle — from raw ingestion and pipeline architecture to transformation modeling, orchestration, performance tuning, and CI/CD automation. My work sits at the intersection of data reliability, cloud-native architecture, and business impact.<br>I've delivered production-grade data platforms for large enterprises in healthcare and regulated industries, with a focus on governance, lineage, compliance, and analytics enablement.
@@ -29,7 +30,7 @@ I work across the full data engineering lifecycle — from raw ingestion and pip
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
+# Additional Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
